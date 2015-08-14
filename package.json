@@ -1,0 +1,12 @@
+{
+  "name"         : "basketball-ref-scraper",
+  "version"      : "0.0.1",
+  "description"  : "Scrape br",
+  "main"         : "server.js",
+  "author"       : "afarq",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
